@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "date_posted": "2026-04-16T10:00:00Z",
+      "module": "Mighty Tasks",
+      "version": "1.0.0",
+      "notes": "Initial launch on the Asset Store.",
+      "status": "live",
+      "imgurl": "https://raw.githubusercontent.com/YourOrg/ShrinkRay-Configs/main/images/mighty-tasks-icon.png"
+    },
+    {
+      "id": 2,
+      "date_posted": "2026-04-20T10:00:00Z",
+      "module": "Mini Tasks",
+      "version": "1.0.0",
+      "notes": "Free version lead funnel launched.",
+      "status": "in-development",
+      "imgurl": ""
+    }
+  ]
+}
