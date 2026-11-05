@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
-  "saleActive": true,
+  "schemaVersion": 3,
+  "saleActive": false,
   "discountFraction": 0.5
 }
